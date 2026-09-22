@@ -2,7 +2,7 @@
 <img width="1782" height="253" alt="cover" src="https://github.com/user-attachments/assets/a23f6af3-b179-41f9-9fe9-3232efaa5444" />
 </p>
 
-📊 A análise objetiva fornecer uma visão geral da performance da empresa com foco no faturamento
+📊 A análise objetiva fornecer uma visão geral da performance da empresa com foco no faturamento dos últimos 12 meses
 
 <p align="center">
 <img width="1782" height="900" alt="image" src="https://github.com/user-attachments/assets/c657c252-e4b1-465d-8864-4c2d4ba01173" />
