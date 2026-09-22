@@ -51,5 +51,5 @@
 
 📬 **Quer trocar uma ideia? Me encontre nos canais abaixo:**
 
-🔗 **LinkedIn:** https://www.linkedin.com/in/ds-bernardo-olavo/
+🔗 **LinkedIn:** https://www.linkedin.com/in/ds-bernardo-olavo/ <br>
 📧 **Email:** dsbernardo.olavo@gmail.com
