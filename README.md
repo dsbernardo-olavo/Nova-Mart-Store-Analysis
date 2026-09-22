@@ -14,7 +14,7 @@ fVendas:
 - data_venda: Inconsistência no formato de datas (formato brasileiro e americano);
 - desconto: Valores acima de 100 (150, 200);
 - id_vendedor: Linhas de venda não atribuídas a nenhum vendedor;
-- valor_unitario: Inconsistência no separador de milhar.
+- valor_unitario: Inconsistência no separador de milhar;
 - quantidade: Valores de quantidade negativos não especificados se são devoluções.
 
 📉 Escolha de visuais:
